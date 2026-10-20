@@ -1,0 +1,20 @@
+Dark mode toggle 
+Simple cookie banner
+Site search
+Scroll back to top button
+Mobile menus
+Loading animations
+Hover states
+Scroll progress bars
+Copy to clipboard buttons
+Print stylesheet
+Sticky headers
+Skip to content link
+Password visibility toggle
+UTM tracking
+Form success state
+Form error state
+Confirmation modals
+Last updated dates
+Expandable FAQ sections
+Floating contact button
